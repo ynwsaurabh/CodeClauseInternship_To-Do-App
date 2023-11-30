@@ -1,2 +1,2 @@
-# TAIRP-Android_App_Development-Task2
+# CodeClauseInternship
 To-Do List App
